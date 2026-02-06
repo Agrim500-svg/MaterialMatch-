@@ -30,37 +30,34 @@ MaterialMatch is a modern web application that enables users to discover and exp
 
 ## 📂 Project Structure
 
+```text
+
 src/
 ├── components/
-│ ├── Generator/
-│ │ ├── ChatMessage.jsx
-│ │ ├── MaterialCard.jsx
-│ │ └── QueryInput.jsx
-│ │
-│ └── ui/
-│ ├── button.jsx
-│ ├── card.jsx
-│ ├── input.jsx
-│ └── badge.jsx
-│
+│   ├── Generator/
+│   │   ├── ChatMessage.jsx
+│   │   ├── MaterialCard.jsx
+│   │   └── QueryInput.jsx
+│   └── ui/
+│       ├── button.jsx
+│       ├── card.jsx
+│       ├── input.jsx
+│       └── badge.jsx
 ├── pages/
-│ ├── Landing.jsx
-│ ├── Generator.jsx
-│ └── Dashboard.jsx
-│
+│   ├── Landing.jsx
+│   ├── Generator.jsx
+│   └── Dashboard.jsx
 ├── entities/
-│ └── all.js
-│
+│   └── all.js
 ├── integrations/
-│ └── Core.js
-│
+│   └── Core.js
 ├── api/
-│
 ├── utils/
-│
 ├── App.jsx
 ├── main.jsx
 └── index.css
+
+```
 
 ## 🧠 Application Flow
 
